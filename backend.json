@@ -6,7 +6,6 @@
     "isNew": "TRUE",
     "description": "Document database for our backend services"
   },
-
   {
     "name": "Go-Lang",
     "ring": "adopt",
@@ -14,7 +13,6 @@
     "isNew": "FALSE",
     "description": "We primaryly use Go-Lang for programming backend language"
   },
-
   {
     "name": "Flyway",
     "ring": "hold",
@@ -22,7 +20,6 @@
     "isNew": "FALSE",
     "description": "Flyway is data migration for Relational DB, we are not using this anymore, please use Blibli Data Migration"
   },
-
   {
     "name": "TODO",
     "ring": "adopt",
