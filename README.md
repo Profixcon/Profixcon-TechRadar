@@ -1,7 +1,7 @@
 ## Profixcon Tech Radar
 
-- Backend : [Backend-TechRadar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fbliblidotcom%2Ftech-radar%2Fmain%2Fbackend.json)
-- Frontend : [Frontend-TechRadar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fbliblidotcom%2Ftech-radar%2Fmain%2Ffrontend.json)
+- Backend : [Backend-TechRadar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2FProfixcon%2FProfixcon-TechRadar%2Fmain%2Fbackend.json)
+- Frontend : [Frontend-TechRadar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2FProfixcon%2FProfixcon-TechRadar%2Fmain%2Ffrontend.json)
 
 ## What is the Tech Radar?
 
