@@ -6,7 +6,6 @@
     "isNew": "TRUE",
     "description": "NPM official multi repo package manager. We can use it to build multiple project at once. It may be useful for tightly dependent libraries but managed in different projects"
   },
-
   {
     "name": "JavaScript",
     "ring": "adopt",
@@ -14,7 +13,6 @@
     "isNew": "FALSE",
     "description": "JavaScript is our main programming language for FrontEnd"
   },
-
   {
     "name": "Nodejs Modules",
     "ring": "adopt",
@@ -22,7 +20,6 @@
     "isNew": "TRUE",
     "description": "In order to reduce code duplicaton and faster load. https://docs.npmjs.com/creating-node-js-modules"
   },
-
   {
     "name": "PWA",
     "ring": "adopt",
